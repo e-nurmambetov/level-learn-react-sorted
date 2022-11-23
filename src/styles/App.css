@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+
+  #root {
+    display: flex;
+    justify-content: center;
+  }
+
+  .App {
+    width: 800px;
+  }
+
+  .post {
+    display: flex;
+    padding: 15px;
+    border: 2px solid teal;
+    margin-top: 15px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+
+  }
+
+
+/*    
+  .app button {
+   width: 90px;
+   height: 20px;
+   background-color: rgb(172, 243, 219);
+   border-radius: 4px;
+  }
+  .app input{
+    border-radius: 3px;
+    border-color: rgb(221, 171, 153);
+  }
+  .app input:hover{
+    border-color: red;
+  }
+  .name{
+    color: green;
+  }
+  .button{
+    color: blue;
+  }
+  .text{
+    color: coral;
+    font-style: italic;
+    font-size: 0.6cm;
+  } */
